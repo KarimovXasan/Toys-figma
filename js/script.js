@@ -29,7 +29,7 @@ button.addEventListener("click", toggle);
 const animalToys = [
     {
         id: 1,
-        img: '../images/teddy.png',
+        img: '../images/tedymini.png',
         title: 'Teddy Bear',
         price: 30
     },
@@ -53,7 +53,7 @@ const animalToys = [
     },
     {
         id: 5,
-        img: '../images/teddy.png',
+        img: '../images/tedymini.png',
         title: 'Teddy Bear',
         price: 37
     },

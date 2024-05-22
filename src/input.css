@@ -5,6 +5,7 @@
 html {
     @apply bg-body-bg;
     font-family: "Varela Round", sans-serif ;
+    scroll-behavior: smooth;
   }
   
   h1 {
